@@ -9,6 +9,9 @@
 * https://www.thoughtco.com/urban-legends-4132595
 * https://www.procon.org
 
+## Debate系サイト
+* http://www.debate.org
+
 ## ファクトチェックサイト（in Japanese）
 * http://gohoo.org
 * https://www.huffingtonpost.jp/news/fakutochekku/
