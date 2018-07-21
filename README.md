@@ -29,3 +29,6 @@
 ## 言語モデル
 * http://www.asahi.com/shimbun/medialab/word_embedding/
 
+## その他機械学習用データセット
+* [Amazon product review data](http://jmcauley.ucsd.edu/data/amazon/)
+
