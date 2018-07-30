@@ -29,6 +29,11 @@
 ## 言語モデル
 * http://www.asahi.com/shimbun/medialab/word_embedding/
 
+## ユーモア系データセット
+* [Pun of the day](https://www.punoftheday.com/)
+* [ボケて（bokete）](https://bokete.jp)
+* [大喜利プラス](http://oogiri.biz)
+
 ## その他機械学習用データセット
 * [Amazon product review data](http://jmcauley.ucsd.edu/data/amazon/)
 
